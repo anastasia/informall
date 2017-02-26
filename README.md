@@ -4,7 +4,6 @@ A misinfocon hackathon project that brings libraries and journalists closer toge
 
 During the hackathon we will implement both a search and a map-based interface for this data.
 
-
 News data is taken from the [Local Memory Project] (https://github.com/harvard-lil/local-memory/tree/master/LocalMemoryProject/Sources/USA)
 
 Library data is taken from [IMLS Public Library Survey] (https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey/explore-pls-data/pls-data)
