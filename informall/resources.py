@@ -53,7 +53,6 @@ def convert_to_kml(kml_sheet, type_of_org, descriptor_of_org):
 
     kml = simplekml.Kml()
     for org in all_orgs:
-        kml.newpoint(name=org.name, description=descriptor_of_org, coords=[(org.latitude, org.longitude)])
+        kml.newpoint(name=org.name, description=descriptor_of_org, coords=[(org.longitude, org.latitude)])
 
-    with open(kml_sheet, 'rb+') as f:
-        f.write(kml.kml())
+    kml.save(kml_sheet)
