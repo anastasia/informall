@@ -56,3 +56,12 @@ def convert_to_kml(kml_sheet, type_of_org, descriptor_of_org):
         kml.newpoint(name=org.name, description=descriptor_of_org, coords=[(org.longitude, org.latitude)])
 
     kml.save(kml_sheet)
+
+def library_pk_csv(csvname):
+    fieldnames = ['id', 'library']
+    libraries = list(Library.objects.all())
+    with open(csvname, 'rb+') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for library in libraries:
+            writer.writerow({'id':library.pk, 'library':library.name})
