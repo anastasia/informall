@@ -65,3 +65,25 @@ def library_pk_csv(csvname):
         writer.writeheader()
         for library in libraries:
             writer.writerow({'id':library.pk, 'library':library.name})
+
+def parse_libguides_db(csvname):
+    fieldnames = ["Library Name", "Database", "Database URL", "Database Description"]
+    with open(csvname, 'rb') as csvfile:
+        reader = csv.DictReader(csvfile, fieldnames=fieldnames)
+        for row in reader:
+            resource_name = unicode(row["Database"], "utf-8")
+            library_name = unicode(row["Library Name"], "utf-8")
+            if library_name != "Library Name":
+                # omit public schools (journalists won't have access)
+                if not "public school" in library_name.lower():
+                    try:
+                        library, created = Library.objects.get_or_create(name=library_name.upper())
+                        resource, created = Resource.objects.get_or_create(name=resource_name)
+                        library.institution_type = 'academic'
+                        resource.description = row["Database Description"]
+                        resource.website = row["Database URL"]
+                        resource.save()
+                        library.resources.add(resource)
+                        library.save()
+                    except Exception as e:
+                        pass
