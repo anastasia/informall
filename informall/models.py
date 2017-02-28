@@ -15,6 +15,7 @@ class Library(models.Model):
     institution_type = models.CharField(max_length=100, default='public', choices=(('public','public'),('academic','academic'),('private','private')))
     latitude = models.FloatField(null=True)
     longitude = models.FloatField(null=True)
+    website = models.URLField(max_length=1000, blank=True)
     resources = models.ManyToManyField(Resource, blank=True)
 
     def __unicode__(self):
