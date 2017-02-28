@@ -47,14 +47,27 @@ def convert_to_kml(kml_sheet, type_of_org, descriptor_of_org):
         descriptor_of_org = public | academic | private | television | newspaper | radio
     """
     if type_of_org == 'library':
-        all_orgs = list(Library.objects.all())
+        all_orgs = list(Library.objects.all(institution_type=descriptor_of_org))
     elif type_of_org == 'news':
         all_orgs = list(News.objects.filter(newstype=descriptor_of_org))
 
+    count = 0
     kml = simplekml.Kml()
-    for org in all_orgs:
+    name = kml_sheet.split('.kml')[0]
+    for idx,org in enumerate(all_orgs):
         kml.newpoint(name=org.name, description=descriptor_of_org, coords=[(org.longitude, org.latitude)])
-
+        if idx % 1000 == 0:
+            count += 1
+            kml_sheet = name + str(count) + '.kml'
+            f = open(kml_sheet,'w')
+            f.close()
+            # write kml to kml_sheet
+            kml.save(kml_sheet)
+            kml = simplekml.Kml()
+    count += 1
+    kml_sheet = name + str(count) + '.kml'
+    f = open(kml_sheet,'w')
+    f.close()
     kml.save(kml_sheet)
 
 def library_pk_csv(csvname):
@@ -87,3 +100,23 @@ def parse_libguides_db(csvname):
                         library.save()
                     except Exception as e:
                         pass
+
+def get_university_coordinates(csvname):
+    with open(csvname, 'rb') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            uniname = row["INSTNM"]
+            if 'California-Berkeley' in uniname:
+                uniname = 'UC BERKELEY'
+
+            uniname = unicode(uniname, errors='ignore')
+            library, just_created = Library.objects.get_or_create(name=uniname.upper())
+
+            try:
+                library.longitude = float(row["LONGITUD"])
+                library.latitude = float(row["LATITUDE"])
+                library.institution_type = "academic"
+            except:
+                pass
+            library.website = row["WEBADDR"]
+            library.save()
