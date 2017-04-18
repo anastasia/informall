@@ -1,0 +1,3652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_17020">
+        <Placemark id="feat_17021">
+            <name>MUEHL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17001">
+                <coordinates>-88.330074,44.515773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17022">
+            <name>BRIGHAM MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17002">
+                <coordinates>-88.730232,42.503014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17023">
+            <name>SHAWANO CITY-COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17003">
+                <coordinates>-88.60743,44.780954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17024">
+            <name>BIRNAMWOOD BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17004">
+                <coordinates>-89.2062883,44.9333925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17025">
+            <name>BONDUEL BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17005">
+                <coordinates>-88.441072,44.738309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17026">
+            <name>MATTOON-HUTCHINS BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17006">
+                <coordinates>-89.041732,45.006276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17027">
+            <name>TIGERTON BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17007">
+                <coordinates>-89.062144,44.741304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17028">
+            <name>WITTENBERG BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17008">
+                <coordinates>-89.167376,44.824831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17029">
+            <name>MEAD PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17009">
+                <coordinates>-87.712943,43.75236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17030">
+            <name>SHEBOYGAN FALLS MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17010">
+                <coordinates>-87.812995,43.729369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17031">
+            <name>SHELL LAKE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17011">
+                <coordinates>-91.9255079,45.7432496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17032">
+            <name>SHIOCTON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17012">
+                <coordinates>-88.577878,44.442836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17033">
+            <name>SHOREWOOD PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17013">
+                <coordinates>-87.8850351,43.0878059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17034">
+            <name>MCCOY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17014">
+                <coordinates>-90.247993,42.57175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17035">
+            <name>GRATIOT ANNEX LIBRARY BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17015">
+                <coordinates>-90.0237178,42.5796066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17036">
+            <name>SLINGER COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17016">
+                <coordinates>-88.280497,43.328646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17037">
+            <name>SOLDIERS GROVE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17017">
+                <coordinates>-90.767567,43.388643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17038">
+            <name>SOMERSET PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17018">
+                <coordinates>-92.676091,45.123495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17039">
+            <name>SOUTH MILWAUKEE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17019">
+                <coordinates>-87.860626,42.912235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17040">
+            <name>SPARTA FREE LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17020">
+                <coordinates>-90.811957,43.944424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17041">
+            <name>SPOONER MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17021">
+                <coordinates>-91.8912585,45.8268419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17042">
+            <name>SPRING GREEN COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17022">
+                <coordinates>-90.0661548,43.1778091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17043">
+            <name>SPRING VALLEY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17023">
+                <coordinates>-92.2381226,44.8453152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17044">
+            <name>D.R. MOON MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17024">
+                <coordinates>-90.935449,44.962475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17045">
+            <name>JEAN M. THOMSEN MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17025">
+                <coordinates>-90.311808,45.078623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17046">
+            <name>ALMOND BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17026">
+                <coordinates>-89.4087376,44.2626317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17047">
+            <name>PLOVER BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17027">
+                <coordinates>-89.5311871,44.4647101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17048">
+            <name>ROSHOLT BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17028">
+                <coordinates>-89.308783,44.628467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17049">
+            <name>PORTAGE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17029">
+                <coordinates>-89.584159,44.523432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17050">
+            <name>STOUGHTON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17030">
+                <coordinates>-89.217898,42.916475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17051">
+            <name>STRUM PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17031">
+                <coordinates>-91.3925789,44.5498111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17052">
+            <name>EGG HARBOR BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17032">
+                <coordinates>-87.2805639,45.0498919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17053">
+            <name>EPHRAIM BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17033">
+                <coordinates>-87.1718861,45.1563311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17054">
+            <name>FISH CREEK BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17034">
+                <coordinates>-87.241627,45.126762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17055">
+            <name>FORESTVILLE BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17035">
+                <coordinates>-87.479355,44.689166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17056">
+            <name>BAILEYS HARBOR (MCARDLE) BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17036">
+                <coordinates>-87.124358,45.065607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17057">
+            <name>SISTER BAY / LIBERTY GROVE BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17037">
+                <coordinates>-87.1219882,45.1888733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17058">
+            <name>DOOR COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17038">
+                <coordinates>-87.374066,44.833701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17059">
+            <name>WASHINGTON ISLAND BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17039">
+                <coordinates>-86.925515,45.369113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17060">
+            <name>ST. FRANCIS PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17040">
+                <coordinates>-87.872778,42.967592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17061">
+            <name>SUN PRAIRIE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17041">
+                <coordinates>-89.235122,43.175074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17062">
+            <name>SUPERIOR PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17042">
+                <coordinates>-92.103847,46.719885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17063">
+            <name>SOLON SPRINGS JOAN SALMEN MEMORIAL LIBRARY BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17043">
+                <coordinates>-91.818554,46.352827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17064">
+            <name>IMOGENE MCGRATH MEMORIAL LIBRARY BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17044">
+                <coordinates>-91.698671,46.515445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17065">
+            <name>THERESA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17045">
+                <coordinates>-88.4523523,43.5195951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17066">
+            <name>THORP PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17046">
+                <coordinates>-90.7935816,44.9562495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17067">
+            <name>EDWARD U. DEMMER MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17047">
+                <coordinates>-89.168736,45.796285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17068">
+            <name>TOMAH PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17048">
+                <coordinates>-90.504902,43.9953996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17069">
+            <name>TOMAHAWK PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17049">
+                <coordinates>-89.733256,45.474043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17070">
+            <name>SHIRLEY M. WRIGHT MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17050">
+                <coordinates>-91.4312302,44.0040617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17071">
+            <name>TURTLE LAKE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17051">
+                <coordinates>-92.141119,45.395418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17072">
+            <name>LESTER PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17052">
+                <coordinates>-87.5698905,44.1442399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17073">
+            <name>GRAHAM PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17053">
+                <coordinates>-88.0518544,42.684839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17074">
+            <name>VERONA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17054">
+                <coordinates>-89.5282037,42.9963696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17075">
+            <name>LESTER PUBLIC LIBRARY OF VESPER</name>
+            <description>public</description>
+            <Point id="geom_17055">
+                <coordinates>-89.9692019,44.483969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17076">
+            <name>VIOLA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17056">
+                <coordinates>-90.666613,43.5049386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17077">
+            <name>MCINTOSH MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17057">
+                <coordinates>-90.8890734,43.5553504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17078">
+            <name>WABENO PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17058">
+                <coordinates>-88.6679379,45.4397341,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17079">
+            <name>WALWORTH MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17059">
+                <coordinates>0.0,0.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17080">
+            <name>WASHBURN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17060">
+                <coordinates>-90.894791,46.6733603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17081">
+            <name>WATERFORD PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17061">
+                <coordinates>-88.2142209,42.7632652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17082">
+            <name>KARL JUNGINGER MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17062">
+                <coordinates>-88.990461,43.190015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17083">
+            <name>WATERTOWN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17063">
+                <coordinates>-88.726133,43.194168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17084">
+            <name>WAUKESHA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17064">
+                <coordinates>-88.232904,43.009731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17085">
+            <name>WAUNAKEE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17065">
+                <coordinates>-89.455481,43.184943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17086">
+            <name>WAUPACA AREA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17066">
+                <coordinates>-89.084863,44.357685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17087">
+            <name>WAUPUN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17067">
+                <coordinates>-88.7322241,43.6317957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17088">
+            <name>EDGAR BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17068">
+                <coordinates>-89.963998,44.921952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17089">
+            <name>JOSEPH DESSERT BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17069">
+                <coordinates>-89.701062,44.79152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17090">
+            <name>MARATHON BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17070">
+                <coordinates>-89.83791,44.930014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17091">
+            <name>ROTHSCHILD AREA BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17071">
+                <coordinates>-89.6246476,44.8892391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17092">
+            <name>SPENCER BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17072">
+                <coordinates>-90.297781,44.757027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17093">
+            <name>STRATFORD BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17073">
+                <coordinates>-90.074913,44.804286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17094">
+            <name>ATHENS BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17074">
+                <coordinates>-90.075569,45.034217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17095">
+            <name>MARATHON COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17075">
+                <coordinates>-89.630301,44.959617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17096">
+            <name>HATLEY BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17076">
+                <coordinates>-89.338955,44.888298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17097">
+            <name>WAUTOMA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17077">
+                <coordinates>-89.292499,44.075555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17098">
+            <name>WAUWATOSA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17078">
+                <coordinates>-88.0087018,43.0606816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17099">
+            <name>WEST ALLIS PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17079">
+                <coordinates>-88.005487,43.01208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17100">
+            <name>WEST BEND COMMUNITY MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17080">
+                <coordinates>-88.184069,43.420763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17101">
+            <name>WESTBORO PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17081">
+                <coordinates>-90.298265,45.353813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17102">
+            <name>BEKKUM MEMORIAL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17082">
+                <coordinates>-90.856639,43.6545428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17103">
+            <name>ETHEL EVERHARD MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17083">
+                <coordinates>-89.4928921,43.8846114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17104">
+            <name>WEYAUWEGA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17084">
+                <coordinates>-88.934045,44.319534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17105">
+            <name>WHITEFISH BAY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17085">
+                <coordinates>-87.901118,43.114957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17106">
+            <name>WHITEHALL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17086">
+                <coordinates>0.0,0.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17107">
+            <name>IRVIN L. YOUNG MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17087">
+                <coordinates>-88.7365982,42.8331056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17108">
+            <name>PATTERSON MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17088">
+                <coordinates>-89.24716,44.17795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17109">
+            <name>BARRETT MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17089">
+                <coordinates>-88.543523,42.577522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17110">
+            <name>WILTON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17090">
+                <coordinates>-90.525348,43.813411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17111">
+            <name>WINCHESTER PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17091">
+                <coordinates>-89.89653,46.221177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17112">
+            <name>WINNECONNE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17092">
+                <coordinates>-88.713734,44.110161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17113">
+            <name>WINTER PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17093">
+                <coordinates>-91.0114227,45.821579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17114">
+            <name>KILBOURN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17094">
+                <coordinates>-89.7722122,43.6255003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17115">
+            <name>MCMILLAN MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17095">
+                <coordinates>-89.821407,44.388313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17116">
+            <name>WITHEE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17096">
+                <coordinates>-90.5978286,44.9575327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17117">
+            <name>WONEWOC PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17097">
+                <coordinates>-90.2232925,43.6543663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17118">
+            <name>WOODVILLE COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17098">
+                <coordinates>-92.2920855,44.9520339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17119">
+            <name>BRUCE AREA LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17099">
+                <coordinates>-91.270345,45.456974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17120">
+            <name>FRANK B. KOLLER MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17100">
+                <coordinates>-89.766037,46.076853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17121">
+            <name>ONEIDA COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17101">
+                <coordinates>-88.1836286,44.4980002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17122">
+            <name>GREEN EARTH BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17102">
+                <coordinates>-88.249759,44.469045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17123">
+            <name>BLACK CREEK VILLAGE LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17103">
+                <coordinates>-88.4497956,44.4681655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17124">
+            <name>BLAIR-PRESTON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17104">
+                <coordinates>-91.233225,44.293948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17125">
+            <name>G.E. BLESKACEK FAMILY MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17105">
+                <coordinates>-91.4923016,45.099734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17126">
+            <name>CADOTT COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17106">
+                <coordinates>-91.150683,44.94864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17127">
+            <name>COLOMA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17107">
+                <coordinates>-89.5220825,44.0311095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17128">
+            <name>DODGEVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17108">
+                <coordinates>-90.1304235,42.9595233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17129">
+            <name>DORCHESTER PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17109">
+                <coordinates>-90.3324227,45.0043299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17130">
+            <name>DRESSER PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17110">
+                <coordinates>-92.6334926,45.3553638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17131">
+            <name>FLORENCE COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17111">
+                <coordinates>-88.2477312,45.9241643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17132">
+            <name>U.S.S. LIBERTY MEMORIAL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17112">
+                <coordinates>-87.9528858,43.3140326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17133">
+            <name>GRANTON COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17113">
+                <coordinates>-90.4615589,44.5893968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17134">
+            <name>HAWKINS AREA LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17114">
+                <coordinates>-90.7146163,45.512424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17135">
+            <name>HUSTISFORD COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17115">
+                <coordinates>-88.6055302,43.3461334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17136">
+            <name>IRON RIDGE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17116">
+                <coordinates>-88.533557,43.402174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17137">
+            <name>BANGOR BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17117">
+                <coordinates>-90.9943107,43.8933368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17138">
+            <name>CAMPBELL BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17118">
+                <coordinates>-91.269825,43.865007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17139">
+            <name>HOLMEN AREA BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17119">
+                <coordinates>-91.255824,43.963113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17140">
+            <name>ONALASKA BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17120">
+                <coordinates>-91.229849,43.876221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17141">
+            <name>WEST SALEM BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17121">
+                <coordinates>-91.0736541,43.8970635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17142">
+            <name>LAKES COUNTRY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17122">
+                <coordinates>-88.5169772,45.2979763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17143">
+            <name>LODI WOMAN'S CLUB PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17123">
+                <coordinates>-89.533759,43.3082834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17144">
+            <name>COLEMAN BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17124">
+                <coordinates>-88.035534,45.065242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17145">
+            <name>CRIVITZ BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17125">
+                <coordinates>-88.004298,45.232533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17146">
+            <name>GOODMAN LIBRARY STATION BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17126">
+                <coordinates>-88.36567,45.639745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17147">
+            <name>NIAGARA BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17127">
+                <coordinates>-88.0087968,45.7814437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17148">
+            <name>PESHTIGO BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17128">
+                <coordinates>-87.7514782,45.0544583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17149">
+            <name>WAUSAUKEE BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17129">
+                <coordinates>-87.952485,45.375795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17150">
+            <name>MARINETTE COUNTY CONSOLIDATED PUBLIC LIBRARY SERVICE</name>
+            <description>public</description>
+            <Point id="geom_17130">
+                <coordinates>-87.6308215,45.1001089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17151">
+            <name>T.B. SCOTT FREE LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17131">
+                <coordinates>-89.7033085,45.1789534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17152">
+            <name>MUKWONAGO COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17132">
+                <coordinates>-88.3306451,42.8675649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17153">
+            <name>POWERS MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17133">
+                <coordinates>-88.585028,42.878196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17154">
+            <name>PITTSVILLE COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17134">
+                <coordinates>-90.1263902,44.4392676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17155">
+            <name>REESEVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17135">
+                <coordinates>-88.8483391,43.3015441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17156">
+            <name>CLARELLA HACKETT JOHNSON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17136">
+                <coordinates>-91.686522,45.177778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17157">
+            <name>OSCAR GRADY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17137">
+                <coordinates>-87.941881,43.381264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17158">
+            <name>PLUM LAKE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17138">
+                <coordinates>-89.51328,45.986027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17159">
+            <name>SCANDINAVIA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17139">
+                <coordinates>-89.147125,44.458711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17160">
+            <name>ST. CROIX FALLS PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17140">
+                <coordinates>-92.6450118,45.4091932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17161">
+            <name>SURING AREA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17141">
+                <coordinates>-88.3720455,44.9990109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17162">
+            <name>PAULINE HAASS PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17142">
+                <coordinates>-88.2206713,43.1337366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17163">
+            <name>LOWELL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17143">
+                <coordinates>-88.820388,43.33991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17164">
+            <name>READSTOWN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17144">
+                <coordinates>-90.7596686,43.4510873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17165">
+            <name>LAC COURTE OREILLES OJIBWA COLLEGE COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17145">
+                <coordinates>-91.3631475,45.9418606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17166">
+            <name>LARSEN FAMILY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17146">
+                <coordinates>-92.3652794,45.8774355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17167">
+            <name>CASHTON MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17147">
+                <coordinates>-90.779622,43.744347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17168">
+            <name>BAD RIVER PUBLIC TRIBAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17148">
+                <coordinates>-90.649729,46.597185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17169">
+            <name>GILLETT PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17149">
+                <coordinates>-88.3008908,44.8910327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17170">
+            <name>NORWALK PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17150">
+                <coordinates>-90.6193475,43.8326058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17171">
+            <name>E.D. LOCKE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17151">
+                <coordinates>-89.287405,43.013548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17172">
+            <name>PEWAUKEE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17152">
+                <coordinates>-88.260843,43.080079,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17173">
+            <name>WYOCENA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17153">
+                <coordinates>-89.309014,43.49405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17174">
+            <name>BRICKL MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17154">
+                <coordinates>-90.587406,42.6290569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17175">
+            <name>FITCHBURG PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17155">
+                <coordinates>-89.4254002,43.0012412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17176">
+            <name>ETTRICK PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17156">
+                <coordinates>-91.2652931,44.1672918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17177">
+            <name>TAYLOR MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17157">
+                <coordinates>-91.1205585,44.3216883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17178">
+            <name>KNUTSON MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17158">
+                <coordinates>-91.0116599,43.702409,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17179">
+            <name>EVELYN GOLDBERG BRIGGS MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17159">
+                <coordinates>-91.416846,46.564628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17180">
+            <name>LESTER PUBLIC LIBRARY OF ROME</name>
+            <description>public</description>
+            <Point id="geom_17160">
+                <coordinates>-89.810133,44.2014745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17181">
+            <name>RALEIGH COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17161">
+                <coordinates>-81.187807,37.779801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17182">
+            <name>MARSH FORK</name>
+            <description>public</description>
+            <Point id="geom_17162">
+                <coordinates>-81.375183,37.827268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17183">
+            <name>SOPHIA</name>
+            <description>public</description>
+            <Point id="geom_17163">
+                <coordinates>-81.245145,37.716139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17184">
+            <name>SHADY SPRINGS</name>
+            <description>public</description>
+            <Point id="geom_17164">
+                <coordinates>-81.100256,37.695152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17185">
+            <name>BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17165">
+                <coordinates>-81.187807,37.779801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17186">
+            <name>BOOKMOBILE UNIT II</name>
+            <description>public</description>
+            <Point id="geom_17166">
+                <coordinates>-81.187807,37.779801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17187">
+            <name>CRAFT MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17167">
+                <coordinates>-81.2212408,37.2688278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17188">
+            <name>CRAFT MEMORIAL LIBRARY BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17168">
+                <coordinates>-81.2212408,37.2688278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17189">
+            <name>PRINCETON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17169">
+                <coordinates>-81.0954381,37.3694078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17190">
+            <name>CABELL COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17170">
+                <coordinates>-82.443666,38.41983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17191">
+            <name>BARBOURSVILLE</name>
+            <description>public</description>
+            <Point id="geom_17171">
+                <coordinates>-82.294203,38.409286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17192">
+            <name>GALLAHER VILLAGE</name>
+            <description>public</description>
+            <Point id="geom_17172">
+                <coordinates>-82.405499,38.406638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17193">
+            <name>SALT ROCK</name>
+            <description>public</description>
+            <Point id="geom_17173">
+                <coordinates>-82.221394,38.321072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17194">
+            <name>WEST HUNTINGTON</name>
+            <description>public</description>
+            <Point id="geom_17174">
+                <coordinates>-82.478119,38.407992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17195">
+            <name>MILTON</name>
+            <description>public</description>
+            <Point id="geom_17175">
+                <coordinates>-82.132842,38.436596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17196">
+            <name>GUYANDOTTE</name>
+            <description>public</description>
+            <Point id="geom_17176">
+                <coordinates>-82.3875629,38.4281392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17197">
+            <name>COX LANDING</name>
+            <description>public</description>
+            <Point id="geom_17177">
+                <coordinates>-82.3042706,38.4738502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17198">
+            <name>MINGO COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17178">
+                <coordinates>-82.1842359,37.7116155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17199">
+            <name>GILBERT</name>
+            <description>public</description>
+            <Point id="geom_17179">
+                <coordinates>-81.941925,37.638251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17200">
+            <name>KERMIT</name>
+            <description>public</description>
+            <Point id="geom_17180">
+                <coordinates>-82.407783,37.8445432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17201">
+            <name>MATEWAN</name>
+            <description>public</description>
+            <Point id="geom_17181">
+                <coordinates>-82.165373,37.6247768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17202">
+            <name>WILLIAMSON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17182">
+                <coordinates>-82.2788721,37.6722232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17203">
+            <name>PUTNAM COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17183">
+                <coordinates>-81.9344175,38.4578626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17204">
+            <name>HURRICANE</name>
+            <description>public</description>
+            <Point id="geom_17184">
+                <coordinates>-82.0197886,38.428825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17205">
+            <name>BUFFALO</name>
+            <description>public</description>
+            <Point id="geom_17185">
+                <coordinates>-81.9893014,38.6083623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17206">
+            <name>ELEANOR</name>
+            <description>public</description>
+            <Point id="geom_17186">
+                <coordinates>-81.9274657,38.5358823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17207">
+            <name>POCA</name>
+            <description>public</description>
+            <Point id="geom_17187">
+                <coordinates>-81.8419134,38.5124216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17208">
+            <name>WAYNE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17188">
+                <coordinates>-82.574179,38.400151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17209">
+            <name>WAYNE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17189">
+                <coordinates>-82.441066,38.222315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17210">
+            <name>FORT GAY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17190">
+                <coordinates>-82.5951304,38.1160515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17211">
+            <name>KANAWHA COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17191">
+                <coordinates>-81.635347,38.349752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17212">
+            <name>CROSS LANES</name>
+            <description>public</description>
+            <Point id="geom_17192">
+                <coordinates>-81.7845581,38.4269305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17213">
+            <name>DUNBAR</name>
+            <description>public</description>
+            <Point id="geom_17193">
+                <coordinates>-81.739798,38.360597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17214">
+            <name>ELK VALLEY</name>
+            <description>public</description>
+            <Point id="geom_17194">
+                <coordinates>-81.499721,38.458328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17215">
+            <name>GLASGOW</name>
+            <description>public</description>
+            <Point id="geom_17195">
+                <coordinates>-81.4270536,38.2139649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17216">
+            <name>MARMET</name>
+            <description>public</description>
+            <Point id="geom_17196">
+                <coordinates>-81.568268,38.245913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17217">
+            <name>ST. ALBANS</name>
+            <description>public</description>
+            <Point id="geom_17197">
+                <coordinates>-81.8338505,38.3857787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17218">
+            <name>CLENDENIN</name>
+            <description>public</description>
+            <Point id="geom_17198">
+                <coordinates>-81.349444,38.488848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17219">
+            <name>BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17199">
+                <coordinates>-81.518135,38.213337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17220">
+            <name>SISSONVILLE</name>
+            <description>public</description>
+            <Point id="geom_17200">
+                <coordinates>-81.670655,38.479563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17221">
+            <name>RIVERSIDE BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17201">
+                <coordinates>-81.51223,38.20805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17222">
+            <name>NITRO PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17202">
+                <coordinates>-81.8466291,38.4223112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17223">
+            <name>SOUTH CHARLESTON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17203">
+                <coordinates>-81.6944035,38.3663113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17224">
+            <name>ROANE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17204">
+                <coordinates>-81.351864,38.804901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17225">
+            <name>WALTON PL</name>
+            <description>public</description>
+            <Point id="geom_17205">
+                <coordinates>-81.4013206,38.6379809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17226">
+            <name>GEARY PL</name>
+            <description>public</description>
+            <Point id="geom_17206">
+                <coordinates>-81.2447913,38.6185428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17227">
+            <name>CALHOUN COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17207">
+                <coordinates>-81.0958104,38.9242295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17228">
+            <name>CLAY COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17208">
+                <coordinates>-81.0747359,38.4638078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17229">
+            <name>DODDRIDGE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17209">
+                <coordinates>-80.7756137,39.2944289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17230">
+            <name>CENTER POINT</name>
+            <description>public</description>
+            <Point id="geom_17210">
+                <coordinates>-80.557449,39.284097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17231">
+            <name>RITCHIE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17211">
+                <coordinates>-81.047923,39.20954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17232">
+            <name>PENNSBORO BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17212">
+                <coordinates>-80.9681887,39.2848821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17233">
+            <name>DORA BEE WOODYARD MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17213">
+                <coordinates>-81.392502,39.062811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17234">
+            <name>PARKERSBURG/WOOD CO. PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17214">
+                <coordinates>-81.5383786,39.2857482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17235">
+            <name>WILLIAMSTOWN</name>
+            <description>public</description>
+            <Point id="geom_17215">
+                <coordinates>-81.4499427,39.4010416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17236">
+            <name>SOUTH PARKERSBURG</name>
+            <description>public</description>
+            <Point id="geom_17216">
+                <coordinates>-81.544863,39.239251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17237">
+            <name>BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17217">
+                <coordinates>-81.5383786,39.2857482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17238">
+            <name>WAVERLY</name>
+            <description>public</description>
+            <Point id="geom_17218">
+                <coordinates>-81.388565,39.296777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17239">
+            <name>PLEASANTS COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17219">
+                <coordinates>-81.208423,39.389905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17240">
+            <name>VIENNA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17220">
+                <coordinates>-81.5538102,39.3221931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17241">
+            <name>MORGANTOWN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17221">
+                <coordinates>-79.954327,39.630114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17242">
+            <name>CLINTON DISTRICT</name>
+            <description>public</description>
+            <Point id="geom_17222">
+                <coordinates>-79.9336575,39.5436395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17243">
+            <name>CHEAT AREA</name>
+            <description>public</description>
+            <Point id="geom_17223">
+                <coordinates>-79.8659653,39.6544902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17244">
+            <name>CLAY-BATTELLE</name>
+            <description>public</description>
+            <Point id="geom_17224">
+                <coordinates>-80.22706,39.717657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17245">
+            <name>ARNETTSVILLE</name>
+            <description>public</description>
+            <Point id="geom_17225">
+                <coordinates>-80.091578,39.587122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17246">
+            <name>KINGWOOD PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17226">
+                <coordinates>-79.688912,39.4721989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17247">
+            <name>TERRA ALTA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17227">
+                <coordinates>-79.5384419,39.4431152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17248">
+            <name>UPSHUR COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17228">
+                <coordinates>-80.235765,38.983126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17249">
+            <name>JAMES CURRY</name>
+            <description>public</description>
+            <Point id="geom_17229">
+                <coordinates>-80.2196296,38.7705724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17250">
+            <name>BELINGTON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17230">
+                <coordinates>-79.936625,39.023179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17251">
+            <name>PHILIPPI PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17231">
+                <coordinates>-80.0376297,39.1510785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17252">
+            <name>CHARLES W. GIBSON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17232">
+                <coordinates>-80.2246222,38.9934223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17253">
+            <name>ELKINS-RANDOLPH PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17233">
+                <coordinates>-79.8494519,38.9265352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17254">
+            <name>HELVETIA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17234">
+                <coordinates>-80.184731,38.721542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17255">
+            <name>VALLEY HEAD PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17235">
+                <coordinates>-80.090026,38.338882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17256">
+            <name>RUSSELL MEMORIAL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17236">
+                <coordinates>-79.987716,38.736862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17257">
+            <name>PIONEER MEMORIAL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17237">
+                <coordinates>-79.597441,38.883121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17258">
+            <name>FIVE RIVERS PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17238">
+                <coordinates>-79.6825501,39.1008025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17259">
+            <name>MOUNTAINTOP PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17239">
+                <coordinates>-79.492259,39.146742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17260">
+            <name>GASSAWAY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17240">
+                <coordinates>-80.774797,38.672974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17261">
+            <name>SUTTON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17241">
+                <coordinates>-80.7187293,38.6694838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17262">
+            <name>BURNSVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17242">
+                <coordinates>-80.6571764,38.8589891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17263">
+            <name>CLARKSBURG-HARRISON CO. PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17243">
+                <coordinates>-80.3406528,39.2808224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17264">
+            <name>BRIDGEPORT PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17244">
+                <coordinates>-80.2747286,39.2992106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17265">
+            <name>SOUTHERN AREA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17245">
+                <coordinates>-80.368986,39.172012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17266">
+            <name>LOWE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17246">
+                <coordinates>-80.3000305,39.3951359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17267">
+            <name>NUTTER FORT PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17247">
+                <coordinates>-80.3188502,39.2546677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17268">
+            <name>TAYLOR COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17248">
+                <coordinates>-80.025128,39.336738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17269">
+            <name>KEYSER-MINERAL COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17249">
+                <coordinates>-78.9743413,39.4403836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17270">
+            <name>FORT ASHBY</name>
+            <description>public</description>
+            <Point id="geom_17250">
+                <coordinates>-78.772748,39.49742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17271">
+            <name>BURLINGTON</name>
+            <description>public</description>
+            <Point id="geom_17251">
+                <coordinates>-78.8820434,39.3686293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17272">
+            <name>PIEDMONT PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17252">
+                <coordinates>-79.0470452,39.4809135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17273">
+            <name>GRANT COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17253">
+                <coordinates>-79.125778,38.9982244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17274">
+            <name>ALLEGHENY MT. TOP</name>
+            <description>public</description>
+            <Point id="geom_17254">
+                <coordinates>-79.239493,39.285657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17275">
+            <name>PENDLETON COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17255">
+                <coordinates>-79.330045,38.645376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17276">
+            <name>HAMPSHIRE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17256">
+                <coordinates>-78.7582006,39.3424617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17277">
+            <name>HARDY COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17257">
+                <coordinates>-78.9698415,39.0629961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17278">
+            <name>EAST HARDY</name>
+            <description>public</description>
+            <Point id="geom_17258">
+                <coordinates>-78.7585911,39.0468034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17279">
+            <name>CAPON BRIDGE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17259">
+                <coordinates>-78.491563,39.263834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17280">
+            <name>MARTINSBURG-BERKELEY CO. PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17260">
+                <coordinates>-77.963935,39.456211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17281">
+            <name>MUSSELMAN-SOUTH BERKELEY COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17261">
+                <coordinates>-78.04391,39.351417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17282">
+            <name>NORTH BERKELEY</name>
+            <description>public</description>
+            <Point id="geom_17262">
+                <coordinates>-77.9153644,39.5465759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17283">
+            <name>NAYLOR MEMORIAL</name>
+            <description>public</description>
+            <Point id="geom_17263">
+                <coordinates>-77.994746,39.555216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17284">
+            <name>BOLIVAR-HARPERS FERRY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17264">
+                <coordinates>-77.756491,39.324451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17285">
+            <name>SOUTH JEFFERSON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17265">
+                <coordinates>-77.954955,39.24053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17286">
+            <name>SHEPHERDSTOWN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17266">
+                <coordinates>-77.805847,39.430857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17287">
+            <name>MORGAN COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17267">
+                <coordinates>-78.22689,39.627595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17288">
+            <name>PAW PAW PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17268">
+                <coordinates>-78.457868,39.52752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17289">
+            <name>OHIO COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17269">
+                <coordinates>-80.6987019,40.1173485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17290">
+            <name>MOUNDSVILLE-MARSHALL COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17270">
+                <coordinates>-80.7450113,39.920416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17291">
+            <name>BENWOOD-MCMECHEN</name>
+            <description>public</description>
+            <Point id="geom_17271">
+                <coordinates>-80.7295405,39.9934089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17292">
+            <name>CAMERON</name>
+            <description>public</description>
+            <Point id="geom_17272">
+                <coordinates>-80.568474,39.825502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17293">
+            <name>HUNDRED PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17273">
+                <coordinates>-80.519748,39.7021941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17294">
+            <name>NEW MARTINSVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17274">
+                <coordinates>-80.864738,39.6400802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17295">
+            <name>PADEN CITY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17275">
+                <coordinates>-80.9347649,39.6035994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17296">
+            <name>PINE GROVE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17276">
+                <coordinates>-80.6784516,39.5651958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17297">
+            <name>SISTERSVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17277">
+                <coordinates>-80.9949811,39.5646507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17298">
+            <name>TYLER COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17278">
+                <coordinates>-80.902653,39.494027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17299">
+            <name>MARY H. WEIR PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17279">
+                <coordinates>-80.589901,40.400559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17300">
+            <name>SWANEY MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17280">
+                <coordinates>-80.6083316,40.4987809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17301">
+            <name>LYNN MURRAY MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17281">
+                <coordinates>-80.5617679,40.6145665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17302">
+            <name>MCDOWELL PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17282">
+                <coordinates>-81.5823301,37.4333654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17303">
+            <name>BRADSHAW</name>
+            <description>public</description>
+            <Point id="geom_17283">
+                <coordinates>-81.800723,37.351076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17304">
+            <name>IAEGER</name>
+            <description>public</description>
+            <Point id="geom_17284">
+                <coordinates>-81.8154459,37.4634233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17305">
+            <name>NORTHFORK</name>
+            <description>public</description>
+            <Point id="geom_17285">
+                <coordinates>-81.387401,37.406392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17306">
+            <name>WAR PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17286">
+                <coordinates>-81.69481,37.319318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17307">
+            <name>MASON COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17287">
+                <coordinates>-82.1373524,38.8436145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17308">
+            <name>MASON CITY</name>
+            <description>public</description>
+            <Point id="geom_17288">
+                <coordinates>-82.032692,39.0210436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17309">
+            <name>NEW HAVEN</name>
+            <description>public</description>
+            <Point id="geom_17289">
+                <coordinates>-80.8544998,37.8584444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17310">
+            <name>HANNAN PL</name>
+            <description>public</description>
+            <Point id="geom_17290">
+                <coordinates>-82.0720961,38.5654187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17311">
+            <name>JACKSON COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17291">
+                <coordinates>-81.7105658,38.819887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17312">
+            <name>RAVENSWOOD BRANCH</name>
+            <description>public</description>
+            <Point id="geom_17292">
+                <coordinates>-81.7612226,38.9504265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17313">
+            <name>MARION COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17293">
+                <coordinates>-80.1442637,39.4848903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17314">
+            <name>FAIRVIEW</name>
+            <description>public</description>
+            <Point id="geom_17294">
+                <coordinates>-80.250271,39.592638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17315">
+            <name>MANNINGTON</name>
+            <description>public</description>
+            <Point id="geom_17295">
+                <coordinates>-80.346049,39.5257784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17316">
+            <name>BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17296">
+                <coordinates>-80.1442637,39.4848903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17317">
+            <name>LOUIS BENNETT PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17297">
+                <coordinates>-80.465524,39.036666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17318">
+            <name>BOONE-MADISON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17298">
+                <coordinates>-81.8251398,38.0582672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17319">
+            <name>BARRETT-WHARTON</name>
+            <description>public</description>
+            <Point id="geom_17299">
+                <coordinates>-81.646743,37.877069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17320">
+            <name>COAL RIVER</name>
+            <description>public</description>
+            <Point id="geom_17300">
+                <coordinates>-81.655229,38.140542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17321">
+            <name>WHITESVILLE</name>
+            <description>public</description>
+            <Point id="geom_17301">
+                <coordinates>-81.469922,37.866708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17322">
+            <name>FAYETTE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17302">
+                <coordinates>-81.152984,37.972081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17323">
+            <name>ANSTED</name>
+            <description>public</description>
+            <Point id="geom_17303">
+                <coordinates>-81.0962437,38.1367923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17324">
+            <name>FAYETTEVILLE</name>
+            <description>public</description>
+            <Point id="geom_17304">
+                <coordinates>-81.1046296,38.0520558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17325">
+            <name>MEADOW BRIDGE</name>
+            <description>public</description>
+            <Point id="geom_17305">
+                <coordinates>-80.886198,37.850625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17326">
+            <name>GAULEY BRIDGE</name>
+            <description>public</description>
+            <Point id="geom_17306">
+                <coordinates>-81.1945844,38.16549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17327">
+            <name>MONTGOMERY</name>
+            <description>public</description>
+            <Point id="geom_17307">
+                <coordinates>-81.3220642,38.182204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17328">
+            <name>MT. HOPE</name>
+            <description>public</description>
+            <Point id="geom_17308">
+                <coordinates>-81.1659591,37.8935286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17329">
+            <name>OAK HILL</name>
+            <description>public</description>
+            <Point id="geom_17309">
+                <coordinates>-81.141505,37.975931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17330">
+            <name>BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17310">
+                <coordinates>0.0,0.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17331">
+            <name>WYOMING COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17311">
+                <coordinates>-81.5399337,37.5827536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17332">
+            <name>MULLENS AREA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17312">
+                <coordinates>-81.3812752,37.5847491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17333">
+            <name>OCEANA</name>
+            <description>public</description>
+            <Point id="geom_17313">
+                <coordinates>-81.572058,37.745744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17334">
+            <name>HANOVER</name>
+            <description>public</description>
+            <Point id="geom_17314">
+                <coordinates>-81.796023,37.544772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17335">
+            <name>BROOKE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17315">
+                <coordinates>-80.612678,40.272618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17336">
+            <name>FOLLANSBEE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17316">
+                <coordinates>-80.595776,40.326891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17337">
+            <name>ALDERSON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17317">
+                <coordinates>-80.6386135,37.7277548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17338">
+            <name>GREENBRIER COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17318">
+                <coordinates>-80.446953,37.807546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17339">
+            <name>RAINELLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17319">
+                <coordinates>-80.761831,37.970556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17340">
+            <name>RONCEVERTE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17320">
+                <coordinates>-80.4693613,37.7474099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17341">
+            <name>RUPERT PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17321">
+                <coordinates>-80.689211,37.9631509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17342">
+            <name>WHITE SULPHUR SPRINGS PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17322">
+                <coordinates>-80.3029996,37.7901974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17343">
+            <name>GILMER PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17323">
+                <coordinates>-80.833837,38.937905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17344">
+            <name>HAMLIN-LINCOLN COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17324">
+                <coordinates>-82.106163,38.277127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17345">
+            <name>BRANCHLAND OUTPOST LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17325">
+                <coordinates>-82.2245487,38.1987517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17346">
+            <name>ALUM CREEK</name>
+            <description>public</description>
+            <Point id="geom_17326">
+                <coordinates>-81.792979,38.267417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17347">
+            <name>CHAPMANVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17327">
+                <coordinates>-82.0194138,37.9754454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17348">
+            <name>BUFFALO CREEK MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17328">
+                <coordinates>-81.8759086,37.7370296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17349">
+            <name>MONROE COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17329">
+                <coordinates>-81.052558,39.208292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17350">
+            <name>PETERSTOWN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17330">
+                <coordinates>-80.793293,37.400812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17351">
+            <name>CRAIGSVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17331">
+                <coordinates>-80.63783,38.321178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17352">
+            <name>RICHWOOD PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17332">
+                <coordinates>-80.5311349,38.2257097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17353">
+            <name>SUMMERSVILLE PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17333">
+                <coordinates>-80.830268,38.311051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17354">
+            <name>HILLSBORO</name>
+            <description>public</description>
+            <Point id="geom_17334">
+                <coordinates>-80.2087619,38.1369441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17355">
+            <name>DURBIN</name>
+            <description>public</description>
+            <Point id="geom_17335">
+                <coordinates>-79.780783,38.639125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17356">
+            <name>GREEN BANK</name>
+            <description>public</description>
+            <Point id="geom_17336">
+                <coordinates>-79.754827,38.402373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17357">
+            <name>POCAHONTAS COUNTY FREE LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17337">
+                <coordinates>-80.0924081,38.222087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17358">
+            <name>LINWOOD COMMUNITY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17338">
+                <coordinates>-79.995414,38.408821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17359">
+            <name>SUMMERS COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17339">
+                <coordinates>-80.890995,37.673862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17360">
+            <name>SUMMERS COUNTY PUBLIC LIBRARY BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17340">
+                <coordinates>-80.890995,37.673862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17361">
+            <name>WEBSTER-ADDISON PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17341">
+                <coordinates>-80.4093652,38.4750604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17362">
+            <name>COWEN PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17342">
+                <coordinates>-80.555564,38.408546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17363">
+            <name>LOGAN AREA PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17343">
+                <coordinates>-81.997999,37.846489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17364">
+            <name>ROCK RIVER BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17344">
+                <coordinates>-105.9765327,41.744235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17365">
+            <name>CENTENNIAL VALLEY BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17345">
+                <coordinates>-106.138177,41.297848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17366">
+            <name>ALBANY COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17346">
+                <coordinates>-105.5870925,41.3105102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17367">
+            <name>WRIGHT BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17347">
+                <coordinates>-105.4921548,43.7530673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17368">
+            <name>CAMPBELL COUNTY PUBLIC LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17348">
+                <coordinates>-105.509707,44.273189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17369">
+            <name>FREMONT COUNTY LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17349">
+                <coordinates>-108.727911,42.835936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17370">
+            <name>RIVERTON BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17350">
+                <coordinates>-108.4079305,43.0266055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17371">
+            <name>DUBOIS BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17351">
+                <coordinates>-109.6308233,43.5349285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17372">
+            <name>BURNS BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17352">
+                <coordinates>-104.3590721,41.1925702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17373">
+            <name>PINE BLUFFS BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17353">
+                <coordinates>-104.0680521,41.1829471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17374">
+            <name>LARAMIE COUNTY LIBRARY SYSTEM - BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17354">
+                <coordinates>-104.821054,41.1372476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17375">
+            <name>LARAMIE COUNTY LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17355">
+                <coordinates>-104.821054,41.1372476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17376">
+            <name>MEETEETSE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17356">
+                <coordinates>-108.872415,44.154561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17377">
+            <name>POWELL BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17357">
+                <coordinates>-108.756531,44.755525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17378">
+            <name>PARK COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17358">
+                <coordinates>-109.0609811,44.5221435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17379">
+            <name>CHUGWATER BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17359">
+                <coordinates>-104.8226036,41.7571587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17380">
+            <name>GLENDO BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17360">
+                <coordinates>-105.0266676,42.5036731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17381">
+            <name>GUERNSEY BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17361">
+                <coordinates>-104.7415852,42.2686808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17382">
+            <name>PLATTE COUNTY PUBLIC LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17362">
+                <coordinates>-104.9532805,42.0563074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17383">
+            <name>CLEARMONT BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17363">
+                <coordinates>-106.364733,44.781757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17384">
+            <name>TONGUE RIVER BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17364">
+                <coordinates>-107.1610011,44.9092561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17385">
+            <name>STORY BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17365">
+                <coordinates>-106.8937361,44.5760544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17386">
+            <name>SHERIDAN FULMER LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17366">
+                <coordinates>-106.9583579,44.801608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17387">
+            <name>BAIROIL BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17367">
+                <coordinates>-107.558862,42.243604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17388">
+            <name>FARSON BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17368">
+                <coordinates>-109.438006,42.053977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17389">
+            <name>GRANGER BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17369">
+                <coordinates>-109.9702702,41.5911045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17390">
+            <name>RELIANCE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17370">
+                <coordinates>-109.1941673,41.6702487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17391">
+            <name>ROCK SPRINGS LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17371">
+                <coordinates>-109.2186499,41.5836397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17392">
+            <name>WHITE MOUNTAIN LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17372">
+                <coordinates>-109.2646379,41.589384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17393">
+            <name>SUPERIOR BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17373">
+                <coordinates>-108.9676432,41.7649014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17394">
+            <name>SWEETWATER COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17374">
+                <coordinates>-109.464187,41.530682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17395">
+            <name>WAMSUTTER BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17375">
+                <coordinates>-107.9780403,41.6730578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17396">
+            <name>COMMUNITY FINE ARTS CENTER BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17376">
+                <coordinates>0.0,0.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17397">
+            <name>MJ DAVIS MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17377">
+                <coordinates>-106.2483655,43.4138309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17398">
+            <name>NATRONA COUNTY PUBLIC LIBRARY - BOOKMOBILE</name>
+            <description>public</description>
+            <Point id="geom_17378">
+                <coordinates>-106.3222195,42.848707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17399">
+            <name>NATRONA COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17379">
+                <coordinates>-106.3222195,42.848707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17400">
+            <name>BOB GOFF MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17380">
+                <coordinates>-106.3719821,42.8412805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17401">
+            <name>DEAVER BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17381">
+                <coordinates>-108.5963216,44.890084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17402">
+            <name>FRANNIE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17382">
+                <coordinates>-108.6175192,44.9692215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17403">
+            <name>GREYBULL BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17383">
+                <coordinates>-108.0514808,44.4888732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17404">
+            <name>LOVELL BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17384">
+                <coordinates>-108.3871885,44.8389478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17405">
+            <name>BIG HORN COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17385">
+                <coordinates>-108.0394342,44.3810888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17406">
+            <name>HYATTVILLE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17386">
+                <coordinates>-107.6157483,44.2537044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17407">
+            <name>ELK MOUNTAIN LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17387">
+                <coordinates>-106.4133617,41.6868884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17408">
+            <name>ENCAMPMENT/RIVERSIDE LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17388">
+                <coordinates>-106.7937996,41.2077628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17409">
+            <name>HANNA LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17389">
+                <coordinates>-106.534503,41.878835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17410">
+            <name>SARATOGA LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17390">
+                <coordinates>-106.8138957,41.4528625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17411">
+            <name>SINCLAIR LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17391">
+                <coordinates>-107.117984,41.779064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17412">
+            <name>BAGGS LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17392">
+                <coordinates>-107.2361304,41.787576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17413">
+            <name>MEDICINE BOW LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17393">
+                <coordinates>-106.2035922,41.8981322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17414">
+            <name>RAWLINS LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17394">
+                <coordinates>-107.237072,41.7893245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17415">
+            <name>CONVERSE COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17395">
+                <coordinates>-105.3836214,42.7609306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17416">
+            <name>GLENROCK BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17396">
+                <coordinates>-105.8721496,42.8580472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17417">
+            <name>HULETT BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17397">
+                <coordinates>-104.6016206,44.6856381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17418">
+            <name>MOORCROFT BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17398">
+                <coordinates>-104.9516038,44.2634921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17419">
+            <name>CROOK COUNTY PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17399">
+                <coordinates>-104.3782468,44.4063153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17420">
+            <name>GOSHEN COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17400">
+                <coordinates>-104.1829726,42.0640994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17421">
+            <name>HOT SPRINGS COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17401">
+                <coordinates>-108.2082202,43.6472577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17422">
+            <name>KAYCEE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17402">
+                <coordinates>-106.6376899,43.7131734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17423">
+            <name>LINCH BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17403">
+                <coordinates>-106.195674,43.607069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17424">
+            <name>JOHNSON COUNTY LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17404">
+                <coordinates>-106.7005227,44.3491648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17425">
+            <name>STAR VALLEY BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17405">
+                <coordinates>-110.9333706,42.7282492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17426">
+            <name>COKEVILLE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17406">
+                <coordinates>-110.9585205,42.0855641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17427">
+            <name>LABARGE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17407">
+                <coordinates>-110.1944484,42.2613354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17428">
+            <name>LINCOLN COUNTY LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17408">
+                <coordinates>-110.5415644,41.7947443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17429">
+            <name>THAYNE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17409">
+                <coordinates>-111.0002588,42.9181953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17430">
+            <name>ALPINE BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17410">
+                <coordinates>-111.0279386,43.1608691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17431">
+            <name>NIOBRARA COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17411">
+                <coordinates>-104.4520746,42.7609024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17432">
+            <name>PINEDALE LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17412">
+                <coordinates>-109.8612814,42.8650969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17433">
+            <name>BIG PINEY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17413">
+                <coordinates>-110.113517,42.538028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17434">
+            <name>TETON COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17414">
+                <coordinates>-110.779203,43.47178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17435">
+            <name>ALTA BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17415">
+                <coordinates>-111.036633,43.754658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17436">
+            <name>UINTA COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17416">
+                <coordinates>-110.963405,41.265975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17437">
+            <name>MOUNTAIN VIEW BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17417">
+                <coordinates>-110.3409552,41.2702225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17438">
+            <name>LYMAN BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17418">
+                <coordinates>-110.2906073,41.3271412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17439">
+            <name>WASHAKIE COUNTY LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17419">
+                <coordinates>-107.9554607,44.0157708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17440">
+            <name>TEN SLEEP BRANCH/SCHOOL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17420">
+                <coordinates>-107.448574,44.0352465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17441">
+            <name>WESTON COUNTY LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17421">
+                <coordinates>-104.2023021,43.855671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17442">
+            <name>UPTON BRANCH LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17422">
+                <coordinates>-104.6241248,44.1006192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17443">
+            <name>LIBRARY NAME</name>
+            <description>public</description>
+            <Point id="geom_17423">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17444">
+            <name>UNIVERSITY OF GEORGIA</name>
+            <description>public</description>
+            <Point id="geom_17424">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17445">
+            <name>IVY TECH COMMUNITY COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17425">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17446">
+            <name>PENN STATE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17426">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17447">
+            <name>PURDUE UNIVERSITY LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17427">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17448">
+            <name>BEREA COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17428">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17449">
+            <name>UCLA LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17429">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17450">
+            <name>UNIVERSITY OF GUELPH</name>
+            <description>public</description>
+            <Point id="geom_17430">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17451">
+            <name>GEORGIA STATE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17431">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17452">
+            <name>ABQ-BERNCO LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17432">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17453">
+            <name>LIBGUIDES CMS V2 SANDBOX FOR LIBRARY SCHOOLS</name>
+            <description>public</description>
+            <Point id="geom_17433">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17454">
+            <name>RILINK SCHOOLS</name>
+            <description>public</description>
+            <Point id="geom_17434">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17455">
+            <name>WENTWORTH INSTITUTE OF TECHNOLOGY</name>
+            <description>public</description>
+            <Point id="geom_17435">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17456">
+            <name>SAN ANTONIO COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17436">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17457">
+            <name>TEXAS STATE UNIVERSITY-SAN MARCOS</name>
+            <description>public</description>
+            <Point id="geom_17437">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17458">
+            <name>SMITH COLLEGE LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17438">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17459">
+            <name>MURRAY STATE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17439">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17460">
+            <name>UNIVERSITY OF LOUISVILLE</name>
+            <description>public</description>
+            <Point id="geom_17440">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17461">
+            <name>UNIVERSITY OF MISSOURI LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17441">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17462">
+            <name>HAMLINE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17442">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17463">
+            <name>TEMPLE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17443">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17464">
+            <name>HARRISBURG AREA COMMUNITY COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17444">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17465">
+            <name>THE FLORIDA STATE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17445">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17466">
+            <name>MICHIGAN STATE UNIVERSITY LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17446">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17467">
+            <name>DEPAUW UNIVERSITY LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17447">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17468">
+            <name>CALIFORNIA STATE UNIVERSITY, FULLERTON</name>
+            <description>public</description>
+            <Point id="geom_17448">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17469">
+            <name>UNIVERSITY OF NORTH CAROLINA AT GREENSBORO</name>
+            <description>public</description>
+            <Point id="geom_17449">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17470">
+            <name>UNIVERSITY OF TEXAS RIO GRANDE VALLEY</name>
+            <description>public</description>
+            <Point id="geom_17450">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17471">
+            <name>MNPS LIBRARY INFORMATION SYSTEMS OFFICE</name>
+            <description>public</description>
+            <Point id="geom_17451">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17472">
+            <name>TRI-COLLEGE LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17452">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17473">
+            <name>UVM LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17453">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17474">
+            <name>UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN</name>
+            <description>public</description>
+            <Point id="geom_17454">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17475">
+            <name>UNIVERSITY OF MICHIGAN LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17455">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17476">
+            <name>UNIVERSITY OF FLORIDA</name>
+            <description>public</description>
+            <Point id="geom_17456">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17477">
+            <name>GEORGIA HIGHLANDS COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17457">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17478">
+            <name>UTAH STATE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17458">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17479">
+            <name>SHIPPENSBURG UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17459">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17480">
+            <name>GEORGETOWN UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17460">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17481">
+            <name>UNIVERSITY OF BRITISH COLUMBIA</name>
+            <description>public</description>
+            <Point id="geom_17461">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17482">
+            <name>CUNY HUNTER COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17462">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17483">
+            <name>CORNELL UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17463">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17484">
+            <name>UNIVERSITY OF MANITOBA</name>
+            <description>public</description>
+            <Point id="geom_17464">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17485">
+            <name>WASHINGTON UNIVERSITY LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17465">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17486">
+            <name>LUNDS UNIVERSITET</name>
+            <description>public</description>
+            <Point id="geom_17466">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17487">
+            <name>UNIVERSITY OF WISCONSIN-MADISON</name>
+            <description>public</description>
+            <Point id="geom_17467">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17488">
+            <name>UNIVERSITY OF ROCHESTER</name>
+            <description>public</description>
+            <Point id="geom_17468">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17489">
+            <name>NORTHWESTERN UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17469">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17490">
+            <name>CAPELLA UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17470">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17491">
+            <name>UNIVERSITY AT BUFFALO</name>
+            <description>public</description>
+            <Point id="geom_17471">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17492">
+            <name>UNIVERSITY OF KENTUCKY</name>
+            <description>public</description>
+            <Point id="geom_17472">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17493">
+            <name>TUFTS UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17473">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17494">
+            <name>UNIVERSITY OF NORTH CAROLINA CHAPEL HILL</name>
+            <description>public</description>
+            <Point id="geom_17474">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17495">
+            <name>LAHORE UNIVERSITY OF MANAGEMENT SCIENCES</name>
+            <description>public</description>
+            <Point id="geom_17475">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17496">
+            <name>WALDEN UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17476">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17497">
+            <name>UNIVERSITY OF TORONTO</name>
+            <description>public</description>
+            <Point id="geom_17477">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17498">
+            <name>RIPHAH INTERNATIONAL UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17478">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17499">
+            <name>UNIVERSITY OF CENTRAL FLORIDA LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17479">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17500">
+            <name>PEPPERDINE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17480">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17501">
+            <name>PRINCETON UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17481">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17502">
+            <name>PENN LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17482">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17503">
+            <name>EMORY UNIVERSITY - MAIN LIBRARY (WOODRUFF)</name>
+            <description>public</description>
+            <Point id="geom_17483">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17504">
+            <name>RAMAPO CATSKILL LIBRARY SYSTEM</name>
+            <description>public</description>
+            <Point id="geom_17484">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17505">
+            <name>UNIVERSITY OF WASHINGTON LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17485">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17506">
+            <name>THINK EDUCATION GROUP</name>
+            <description>public</description>
+            <Point id="geom_17486">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17507">
+            <name>MOHAWK COLLEGE LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17487">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17508">
+            <name>THE UNIVERSITY OF ADELAIDE</name>
+            <description>public</description>
+            <Point id="geom_17488">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17509">
+            <name>UC BERKELEY</name>
+            <description>public</description>
+            <Point id="geom_17489">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17510">
+            <name>UNIVERSITY OF MELBOURNE</name>
+            <description>public</description>
+            <Point id="geom_17490">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17511">
+            <name>VANDERBILT UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17491">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17512">
+            <name>MILLBROOK SCHOOL</name>
+            <description>public</description>
+            <Point id="geom_17492">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17513">
+            <name>NEW TRIER HIGH SCHOOL</name>
+            <description>public</description>
+            <Point id="geom_17493">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17514">
+            <name>UNIVERSITY OF PUGET SOUND</name>
+            <description>public</description>
+            <Point id="geom_17494">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17515">
+            <name>UNIVERSITY OF ST. THOMAS</name>
+            <description>public</description>
+            <Point id="geom_17495">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17516">
+            <name>FURMAN UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17496">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17517">
+            <name>UNIVERSITY OF UTAH</name>
+            <description>public</description>
+            <Point id="geom_17497">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17518">
+            <name>BOSTON COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17498">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17519">
+            <name>YALE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17499">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17520">
+            <name>UNIVERSITY OF IOWA</name>
+            <description>public</description>
+            <Point id="geom_17500">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17521">
+            <name>ST. JOHN'S UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17501">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17522">
+            <name>UNIVERSITY OF HAWAII AT MANOA</name>
+            <description>public</description>
+            <Point id="geom_17502">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17523">
+            <name>SPRINGSHARE MEMORIAL LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17503">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17524">
+            <name>MILNER LIBRARY, ILLINOIS STATE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17504">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17525">
+            <name>UNIVERSITY OF CINCINNATI</name>
+            <description>public</description>
+            <Point id="geom_17505">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17526">
+            <name>CLAREMONT COLLEGES LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17506">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17527">
+            <name>SALEM SCHOOL DISTRICT</name>
+            <description>public</description>
+            <Point id="geom_17507">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17528">
+            <name>GUSTAVUS ADOLPHUS COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17508">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17529">
+            <name>UNIVERSITY OF PITTSBURGH</name>
+            <description>public</description>
+            <Point id="geom_17509">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17530">
+            <name>TARLTON LAW LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17510">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17531">
+            <name>PALM BEACH STATE COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17511">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17532">
+            <name>INDIANA UNIVERSITY EAST</name>
+            <description>public</description>
+            <Point id="geom_17512">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17533">
+            <name>MIT LIBRARIES</name>
+            <description>public</description>
+            <Point id="geom_17513">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17534">
+            <name>NEW YORK UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17514">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17535">
+            <name>DUKE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17515">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17536">
+            <name>ARIZONA STATE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17516">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17537">
+            <name>GEORGETOWN COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17517">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17538">
+            <name>DUQUESNE UNIVERSITY</name>
+            <description>public</description>
+            <Point id="geom_17518">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17539">
+            <name>LOUIS (THE LOUISIANA LIBRARY NETWORK)</name>
+            <description>public</description>
+            <Point id="geom_17519">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17540">
+            <name>HARVARD LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_17520">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17541">
+            <name>DARTMOUTH COLLEGE</name>
+            <description>public</description>
+            <Point id="geom_17521">
+                <coordinates>None,None,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>ANCHOR POINT PUBLIC LIBRARY</name>
+            <description>public</description>
+            <Point id="geom_0">
+                <coordinates>-151.8400068,59.7796042,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

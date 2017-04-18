@@ -1,0 +1,3365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_19546">
+        <Placemark id="feat_19547">
+            <name>WCBE 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19523">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19548">
+            <name>WCLT 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19524">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19549">
+            <name>WCOL 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19525">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19550">
+            <name>WCVO 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19526">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19551">
+            <name>WHOK 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19527">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19552">
+            <name>WLVQ 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19528">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19553">
+            <name>WMNI 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19529">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19554">
+            <name>WNCI 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19530">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19555">
+            <name>WNND 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19531">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19556">
+            <name>WODC 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19532">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19557">
+            <name>WOSU 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19533">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19558">
+            <name>WRFD 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19534">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19559">
+            <name>WRKZ 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19535">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19560">
+            <name>WSNY 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19536">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19561">
+            <name>WTVN 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19537">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19562">
+            <name>WUFM 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19538">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19563">
+            <name>WVMX 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19539">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19564">
+            <name>WVSG 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19540">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19565">
+            <name>WWCD 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19541">
+                <coordinates>-83.02076,40.097796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19566">
+            <name>WCHD 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19542">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19567">
+            <name>WDPR 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19543">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19568">
+            <name>WDSJ 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19544">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19569">
+            <name>WHIO 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19545">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19570">
+            <name>WHKO 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19546">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19571">
+            <name>WLQT 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19547">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19572">
+            <name>WMMX 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19548">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19573">
+            <name>WTUE 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19549">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19574">
+            <name>WXEG 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19550">
+                <coordinates>-84.268593,39.750471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19575">
+            <name>WJER 1450 AM</name>
+            <description>radio</description>
+            <Point id="geom_19551">
+                <coordinates>-81.48791,40.537509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19576">
+            <name>WEOL 930 AM</name>
+            <description>radio</description>
+            <Point id="geom_19552">
+                <coordinates>-82.10874,41.369846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19577">
+            <name>WBVI 96.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19553">
+                <coordinates>-83.650714,40.993263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19578">
+            <name>WFIN 96.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19554">
+                <coordinates>-83.650714,40.993263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19579">
+            <name>WFOB 96.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19555">
+                <coordinates>-83.650714,40.993263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19580">
+            <name>WLFC 96.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19556">
+                <coordinates>-83.650714,40.993263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19581">
+            <name>WKKY 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19557">
+                <coordinates>-80.94645,41.802618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19582">
+            <name>WQLX 106.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19558">
+                <coordinates>-83.5802,39.162917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19583">
+            <name>WSRW 106.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19559">
+                <coordinates>-83.5802,39.162917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19584">
+            <name>WIRO 1230 AM</name>
+            <description>radio</description>
+            <Point id="geom_19560">
+                <coordinates>-82.6737,38.535109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19585">
+            <name>Black Squirrel Radio</name>
+            <description>radio</description>
+            <Point id="geom_19561">
+                <coordinates>-81.35302,41.148756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19586">
+            <name>WKSU</name>
+            <description>radio</description>
+            <Point id="geom_19562">
+                <coordinates>-81.35302,41.148756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19587">
+            <name>WLOH 1320 AM</name>
+            <description>radio</description>
+            <Point id="geom_19563">
+                <coordinates>-82.61216,39.712887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19588">
+            <name>WIMT 102.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19564">
+                <coordinates>-84.08458,40.759451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19589">
+            <name>WKKI 102.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19565">
+                <coordinates>-84.08458,40.759451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19590">
+            <name>WMLX 102.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19566">
+                <coordinates>-84.08458,40.759451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19591">
+            <name>WWSR 102.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19567">
+                <coordinates>-84.08458,40.759451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19592">
+            <name>WMAN 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19568">
+                <coordinates>-82.511369,40.850833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19593">
+            <name>WVMC 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19569">
+                <coordinates>-82.511369,40.850833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19594">
+            <name>WMOA 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19570">
+                <coordinates>-81.44373,39.426551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19595">
+            <name>WNUS 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19571">
+                <coordinates>-81.44373,39.426551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19596">
+            <name>WMRN 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19572">
+                <coordinates>-83.069296,40.616604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19597">
+            <name>WMVO 1300 AM</name>
+            <description>radio</description>
+            <Point id="geom_19573">
+                <coordinates>-82.48254,40.385636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19598">
+            <name>WTUZ 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19574">
+                <coordinates>-81.44439,40.477187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19599">
+            <name>WCLT 1430 AM</name>
+            <description>radio</description>
+            <Point id="geom_19575">
+                <coordinates>-82.40054,40.079115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19600">
+            <name>WOBC 91.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19576">
+                <coordinates>-82.21935,41.2863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19601">
+            <name>WMUB 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19577">
+                <coordinates>-84.7407,39.498751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19602">
+            <name>WCPZ 102.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19578">
+                <coordinates>-82.71083,41.42646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19603">
+            <name>WLEC 102.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19579">
+                <coordinates>-82.71083,41.42646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19604">
+            <name>WOHF 102.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19580">
+                <coordinates>-82.71083,41.42646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19605">
+            <name>WTTF 93.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19581">
+                <coordinates>-84.395196,41.425554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19606">
+            <name>WCKY 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19582">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19607">
+            <name>WGTE 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19583">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19608">
+            <name>WIOT 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19584">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19609">
+            <name>WJUC 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19585">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19610">
+            <name>WKKO 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19586">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19611">
+            <name>WRVF 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19587">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19612">
+            <name>WSPD 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19588">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19613">
+            <name>WVKS 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19589">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19614">
+            <name>WXUT 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19590">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19615">
+            <name>WYSZ 103.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19591">
+                <coordinates>-83.569359,41.720684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19616">
+            <name>WCHO 105.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19592">
+                <coordinates>-83.4391,39.5365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19617">
+            <name>WBZI 1500 AM</name>
+            <description>radio</description>
+            <Point id="geom_19593">
+                <coordinates>-83.92144,39.682836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19618">
+            <name>WBBG 106.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19594">
+                <coordinates>-80.802854,41.017082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19619">
+            <name>WHOT 106.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19595">
+                <coordinates>-80.802854,41.017082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19620">
+            <name>WNCD 106.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19596">
+                <coordinates>-80.802854,41.017082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19621">
+            <name>WNIO 106.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19597">
+                <coordinates>-80.802854,41.017082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19622">
+            <name>WQXK 106.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19598">
+                <coordinates>-80.802854,41.017082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19623">
+            <name>WYFM 106.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19599">
+                <coordinates>-80.802854,41.017082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19624">
+            <name>Int Radio</name>
+            <description>radio</description>
+            <Point id="geom_19600">
+                <coordinates>-111.891,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19625">
+            <name>KBEE 98.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19601">
+                <coordinates>-111.89875,40.754746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19626">
+            <name>KCPW 98.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19602">
+                <coordinates>-111.89875,40.754746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19627">
+            <name>KSL 98.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19603">
+                <coordinates>-111.89875,40.754746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19628">
+            <name>KSOP 98.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19604">
+                <coordinates>-111.89875,40.754746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19629">
+            <name>KTKK 98.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19605">
+                <coordinates>-111.89875,40.754746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19630">
+            <name>KQMO 97.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19606">
+                <coordinates>-93.71063,36.918018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19631">
+            <name>KWKJ 98.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19607">
+                <coordinates>-93.76042,38.364214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19632">
+            <name>KBIA 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19608">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19633">
+            <name>KBXR 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19609">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19634">
+            <name>KCMQ 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19610">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19635">
+            <name>KFRU 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19611">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19636">
+            <name>KOPN 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19612">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19637">
+            <name>KPOW 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19613">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19638">
+            <name>KSSZ 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19614">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19639">
+            <name>KTGR 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19615">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19640">
+            <name>KWJK 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19616">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19641">
+            <name>KWOS 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19617">
+                <coordinates>-92.29003,38.926838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19642">
+            <name>KESM 105.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19618">
+                <coordinates>-94.00271,37.853003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19643">
+            <name>KREI 800 AM</name>
+            <description>radio</description>
+            <Point id="geom_19619">
+                <coordinates>-90.41404,37.779206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19644">
+            <name>KTJJ 800 AM</name>
+            <description>radio</description>
+            <Point id="geom_19620">
+                <coordinates>-90.41404,37.779206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19645">
+            <name>KJFF 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19621">
+                <coordinates>-90.4077,38.187767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19646">
+            <name>KBOD 99.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19622">
+                <coordinates>-92.43342,36.606281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19647">
+            <name>KATI 94.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19623">
+                <coordinates>-92.13905,38.535897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19648">
+            <name>KJLU 94.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19624">
+                <coordinates>-92.13905,38.535897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19649">
+            <name>KJMO 94.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19625">
+                <coordinates>-92.13905,38.535897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19650">
+            <name>KIXQ 102.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19626">
+                <coordinates>-94.50169,37.09416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19651">
+            <name>KJMK 102.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19627">
+                <coordinates>-94.50169,37.09416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19652">
+            <name>KSYN 102.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19628">
+                <coordinates>-94.50169,37.09416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19653">
+            <name>KXDG 102.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19629">
+                <coordinates>-94.50169,37.09416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19654">
+            <name>KBEQ 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19630">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19655">
+            <name>KCJK 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19631">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19656">
+            <name>KCKC 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19632">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19657">
+            <name>KCMO 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19633">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19658">
+            <name>KCSP 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19634">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19659">
+            <name>KCTE 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19635">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19660">
+            <name>KCUR 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19636">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19661">
+            <name>KFKF 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19637">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19662">
+            <name>KMBZ 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19638">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19663">
+            <name>KMXV 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19639">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19664">
+            <name>KQRC 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19640">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19665">
+            <name>KRBZ 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19641">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19666">
+            <name>KTBG 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19642">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19667">
+            <name>WDAF 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19643">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19668">
+            <name>WHB 104.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19644">
+                <coordinates>-94.60066,39.103037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19669">
+            <name>KWOC 930 AM</name>
+            <description>radio</description>
+            <Point id="geom_19645">
+                <coordinates>-90.41689,36.759357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19670">
+            <name>KDHX 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19646">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19671">
+            <name>KEZK 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19647">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19672">
+            <name>KFNS 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19648">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19673">
+            <name>KFTK 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19649">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19674">
+            <name>KFUO 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19650">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19675">
+            <name>KIHT 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19651">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19676">
+            <name>KLOU 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19652">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19677">
+            <name>KMJM 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19653">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19678">
+            <name>KMOX 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19654">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19679">
+            <name>KPNT 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19655">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19680">
+            <name>KSD 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19656">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19681">
+            <name>KSHE 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19657">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19682">
+            <name>KSLZ 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19658">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19683">
+            <name>KTRS 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19659">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19684">
+            <name>KWMU 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19660">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19685">
+            <name>KWUR 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19661">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19686">
+            <name>KYKY 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19662">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19687">
+            <name>WARH 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19663">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19688">
+            <name>WEW 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19664">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19689">
+            <name>WIJR 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19665">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19690">
+            <name>WIL 88.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19666">
+                <coordinates>-90.193,38.631551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19691">
+            <name>KDRO 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19667">
+                <coordinates>-93.23231,38.702964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19692">
+            <name>KSDL 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19668">
+                <coordinates>-93.23231,38.702964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19693">
+            <name>KSIS 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19669">
+                <coordinates>-93.23231,38.702964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19694">
+            <name>KADI 99.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19670">
+                <coordinates>-92.705545,37.859361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19695">
+            <name>KTXR 99.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19671">
+                <coordinates>-92.705545,37.859361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19696">
+            <name>KWND 99.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19672">
+                <coordinates>-92.705545,37.859361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19697">
+            <name>KTTN 92.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19673">
+                <coordinates>-93.61143,40.07823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19698">
+            <name>KDAL 610 AM</name>
+            <description>radio</description>
+            <Point id="geom_19674">
+                <coordinates>-92.202829,46.837172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19699">
+            <name>KDNW 610 AM</name>
+            <description>radio</description>
+            <Point id="geom_19675">
+                <coordinates>-92.202829,46.837172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19700">
+            <name>KUMD 610 AM</name>
+            <description>radio</description>
+            <Point id="geom_19676">
+                <coordinates>-92.202829,46.837172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19701">
+            <name>KAXE 91.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19677">
+                <coordinates>-93.921429,47.087782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19702">
+            <name>KSDM 104.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19678">
+                <coordinates>-93.38142,48.579947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19703">
+            <name>KBEM 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19679">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19704">
+            <name>KCMP 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19680">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19705">
+            <name>KDWB 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19681">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19706">
+            <name>KEEY 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19682">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19707">
+            <name>KFAI 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19683">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19708">
+            <name>KFXN 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19684">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19709">
+            <name>KMNB 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19685">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19710">
+            <name>KNOW 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19686">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19711">
+            <name>KQQL 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19687">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19712">
+            <name>KQRS 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19688">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19713">
+            <name>KSJN 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19689">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19714">
+            <name>KSTP 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19690">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19715">
+            <name>KTCN 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19691">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19716">
+            <name>KTCZ 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19692">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19717">
+            <name>KTIS 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19693">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19718">
+            <name>KTMY 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19694">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19719">
+            <name>KTWN 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19695">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19720">
+            <name>KUOM 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19696">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19721">
+            <name>KXXR 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19697">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19722">
+            <name>KZJK 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19698">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19723">
+            <name>MPR 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19699">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19724">
+            <name>WCCO 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19700">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19725">
+            <name>WGVX 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19701">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19726">
+            <name>WWTC 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19702">
+                <coordinates>-93.27137,44.984615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19727">
+            <name>KUMM 89.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19703">
+                <coordinates>-95.9092,45.584124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19728">
+            <name>KCLD 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19704">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19729">
+            <name>KCML 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19705">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19730">
+            <name>KKJM 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19706">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19731">
+            <name>KLZZ 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19707">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19732">
+            <name>KMXK 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19708">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19733">
+            <name>KVSC 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19709">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19734">
+            <name>KZPK 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19710">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19735">
+            <name>KZRV 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19711">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19736">
+            <name>WWJO 104.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19712">
+                <coordinates>-94.20649,45.526066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19737">
+            <name>KMGK 107.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19713">
+                <coordinates>-94.97236,45.729898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19738">
+            <name>WUSZ 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19714">
+                <coordinates>-92.442797,47.640367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19739">
+            <name>WAAM 1600 AM</name>
+            <description>radio</description>
+            <Point id="geom_19715">
+                <coordinates>-83.79147,42.280887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19740">
+            <name>WCBN 1600 AM</name>
+            <description>radio</description>
+            <Point id="geom_19716">
+                <coordinates>-83.79147,42.280887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19741">
+            <name>WQKL 1600 AM</name>
+            <description>radio</description>
+            <Point id="geom_19717">
+                <coordinates>-83.79147,42.280887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19742">
+            <name>WTKA 1600 AM</name>
+            <description>radio</description>
+            <Point id="geom_19718">
+                <coordinates>-83.79147,42.280887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19743">
+            <name>WUOM 1600 AM</name>
+            <description>radio</description>
+            <Point id="geom_19719">
+                <coordinates>-83.79147,42.280887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19744">
+            <name>WWWW 1600 AM</name>
+            <description>radio</description>
+            <Point id="geom_19720">
+                <coordinates>-83.79147,42.280887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19745">
+            <name>WHFB 99.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19721">
+                <coordinates>-86.41801,42.10809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19746">
+            <name>WAUS 90.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19722">
+                <coordinates>-86.34979,41.944691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19747">
+            <name>WGTO 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19723">
+                <coordinates>-85.98937,41.907837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19748">
+            <name>WCHB 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19724">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19749">
+            <name>WCSX 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19725">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19750">
+            <name>WDET 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19726">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19751">
+            <name>WDFN 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19727">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19752">
+            <name>WDMK 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19728">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19753">
+            <name>WDRQ 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19729">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19754">
+            <name>WDTK 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19730">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19755">
+            <name>WDTW 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19731">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19756">
+            <name>WDVD 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19732">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19757">
+            <name>WDZH 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19733">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19758">
+            <name>WHFR 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19734">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19759">
+            <name>WJLB 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19735">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19760">
+            <name>WJR 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19736">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19761">
+            <name>WKQI 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19737">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19762">
+            <name>WMGC 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19738">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19763">
+            <name>WMXD 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19739">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19764">
+            <name>WNIC 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19740">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19765">
+            <name>WOMC 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19741">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19766">
+            <name>WPON 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19742">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19767">
+            <name>WPZR 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19743">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19768">
+            <name>WRCJ 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19744">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19769">
+            <name>WRIF 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19745">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19770">
+            <name>WWJ 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19746">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19771">
+            <name>WXYT 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19747">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19772">
+            <name>WYCD 1200 AM</name>
+            <description>radio</description>
+            <Point id="geom_19748">
+                <coordinates>-83.05879,42.343787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19773">
+            <name>WCRZ 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19749">
+                <coordinates>-83.780835,42.965926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19774">
+            <name>WFBE 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19750">
+                <coordinates>-83.780835,42.965926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19775">
+            <name>WQUS 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19751">
+                <coordinates>-83.780835,42.965926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19776">
+            <name>WRCL 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19752">
+                <coordinates>-83.780835,42.965926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19777">
+            <name>WWBN 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19753">
+                <coordinates>-83.780835,42.965926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19778">
+            <name>WBBL 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19754">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19779">
+            <name>WBCT 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19755">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19780">
+            <name>WBFX 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19756">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19781">
+            <name>WCSG 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19757">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19782">
+            <name>WFGR 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19758">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19783">
+            <name>WGRD 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19759">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19784">
+            <name>WHTS 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19760">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19785">
+            <name>WLAV 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19761">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19786">
+            <name>WLHT 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19762">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19787">
+            <name>WOOD AM 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19763">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19788">
+            <name>WSNX 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19764">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19789">
+            <name>WSRW 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19765">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19790">
+            <name>WTKG 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19766">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19791">
+            <name>WTNR 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19767">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19792">
+            <name>WTRV 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19768">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19793">
+            <name>WYCE 107.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19769">
+                <coordinates>-85.629101,42.984226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19794">
+            <name>WMTU 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19770">
+                <coordinates>-88.297959,47.414054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19795">
+            <name>WUPS 98.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19771">
+                <coordinates>-84.75589,44.305812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19796">
+            <name>WHMI 93.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19772">
+                <coordinates>-83.91835,42.612243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19797">
+            <name>WIAA 88.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19773">
+                <coordinates>-85.8079,44.634131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19798">
+            <name>WIBM 1450 AM</name>
+            <description>radio</description>
+            <Point id="geom_19774">
+                <coordinates>-84.38842,42.252268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19799">
+            <name>WJKN 1450 AM</name>
+            <description>radio</description>
+            <Point id="geom_19775">
+                <coordinates>-84.38842,42.252268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19800">
+            <name>WSAE 1450 AM</name>
+            <description>radio</description>
+            <Point id="geom_19776">
+                <coordinates>-84.38842,42.252268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19801">
+            <name>WQLR 1660 AM</name>
+            <description>radio</description>
+            <Point id="geom_19777">
+                <coordinates>-85.55107,42.278891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19802">
+            <name>WQXC 1660 AM</name>
+            <description>radio</description>
+            <Point id="geom_19778">
+                <coordinates>-85.55107,42.278891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19803">
+            <name>WDBM 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19779">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19804">
+            <name>WFMK 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19780">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19805">
+            <name>WHZZ 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19781">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19806">
+            <name>WITL 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19782">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19807">
+            <name>WJIM 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19783">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19808">
+            <name>WKAR AM 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19784">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19809">
+            <name>WKAR FM 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19785">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19810">
+            <name>WMMQ 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19786">
+                <coordinates>-84.371973,42.599184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19811">
+            <name>WKQS 101.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19787">
+                <coordinates>-87.42223,46.554402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19812">
+            <name>WMQT 101.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19788">
+                <coordinates>-87.42223,46.554402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19813">
+            <name>WUGN 99.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19789">
+                <coordinates>-84.27234,43.605457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19814">
+            <name>WCFX 95.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19790">
+                <coordinates>-84.847417,43.640574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19815">
+            <name>WKBZ 1090 AM</name>
+            <description>radio</description>
+            <Point id="geom_19791">
+                <coordinates>-86.25131,43.234014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19816">
+            <name>WMRR 1090 AM</name>
+            <description>radio</description>
+            <Point id="geom_19792">
+                <coordinates>-86.25131,43.234014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19817">
+            <name>WMUS 1090 AM</name>
+            <description>radio</description>
+            <Point id="geom_19793">
+                <coordinates>-86.25131,43.234014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19818">
+            <name>WJML 1110 AM</name>
+            <description>radio</description>
+            <Point id="geom_19794">
+                <coordinates>-84.93774,45.360111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19819">
+            <name>WLXT 1110 AM</name>
+            <description>radio</description>
+            <Point id="geom_19795">
+                <coordinates>-84.93774,45.360111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19820">
+            <name>WHNN 96.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19796">
+                <coordinates>-83.91427,43.413975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19821">
+            <name>WILZ 96.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19797">
+                <coordinates>-83.91427,43.413975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19822">
+            <name>WIOG 96.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19798">
+                <coordinates>-83.91427,43.413975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19823">
+            <name>WKQZ 96.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19799">
+                <coordinates>-83.91427,43.413975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19824">
+            <name>WSOO 1230 AM</name>
+            <description>radio</description>
+            <Point id="geom_19800">
+                <coordinates>-84.32485,46.460895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19825">
+            <name>WICA 91.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19801">
+                <coordinates>-85.67316,44.74136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19826">
+            <name>WJZQ 91.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19802">
+                <coordinates>-85.67316,44.74136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19827">
+            <name>WMKT 91.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19803">
+                <coordinates>-85.67316,44.74136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19828">
+            <name>WEMU 89.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19804">
+                <coordinates>-83.63316,42.223482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19829">
+            <name>WSUB 96.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19805">
+                <coordinates>-71.78101,41.430068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19830">
+            <name>WCRI 95.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19806">
+                <coordinates>-71.58358,41.171389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19831">
+            <name>WRIU 90.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19807">
+                <coordinates>-71.52689,41.481001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19832">
+            <name>WARV 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19808">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19833">
+            <name>WBRU 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19809">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19834">
+            <name>WHJJ 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19810">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19835">
+            <name>WHJY 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19811">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19836">
+            <name>WJMF 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19812">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19837">
+            <name>WPMZ 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19813">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19838">
+            <name>WPRO AM 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19814">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19839">
+            <name>WPRO FM 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19815">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19840">
+            <name>WQRI 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19816">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19841">
+            <name>WRNI 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19817">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19842">
+            <name>WSNE 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19818">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19843">
+            <name>WSTL 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19819">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19844">
+            <name>WWBB 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19820">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19845">
+            <name>WWKX 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19821">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19846">
+            <name>WWLI 1590 AM</name>
+            <description>radio</description>
+            <Point id="geom_19822">
+                <coordinates>-71.453674,41.817398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19847">
+            <name>KHYM 103.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19823">
+                <coordinates>-100.02632,37.755267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19848">
+            <name>KJIL 103.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19824">
+                <coordinates>-100.02632,37.755267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19849">
+            <name>KANZ 91.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19825">
+                <coordinates>-100.82503,37.976008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19850">
+            <name>KJLS 103.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19826">
+                <coordinates>-99.32559,38.881082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19851">
+            <name>KHCC 90.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19827">
+                <coordinates>-97.92382,38.034292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19852">
+            <name>KCFX 101.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19828">
+                <coordinates>-94.62568,39.118054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19853">
+            <name>KANU 91.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19829">
+                <coordinates>-95.23202,38.983551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19854">
+            <name>KJHK 91.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19830">
+                <coordinates>-95.23202,38.983551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19855">
+            <name>KSCB 1270 AM</name>
+            <description>radio</description>
+            <Point id="geom_19831">
+                <coordinates>-100.92813,37.067979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19856">
+            <name>KSDB 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19832">
+                <coordinates>-96.56932,39.184986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19857">
+            <name>KQMA 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19833">
+                <coordinates>-99.32852,39.799834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19858">
+            <name>KKSW 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19834">
+                <coordinates>-95.780662,38.988075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19859">
+            <name>KFDI 101.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19835">
+                <coordinates>-97.258997,37.651974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19860">
+            <name>KICT 101.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19836">
+                <coordinates>-97.258997,37.651974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19861">
+            <name>KMUW 101.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19837">
+                <coordinates>-97.258997,37.651974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19862">
+            <name>KRBB 101.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19838">
+                <coordinates>-97.258997,37.651974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19863">
+            <name>KSOK 101.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19839">
+                <coordinates>-97.258997,37.651974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19864">
+            <name>KBLG 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19840">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19865">
+            <name>KBLW 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19841">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19866">
+            <name>KBUL 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19842">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19867">
+            <name>KCTR 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19843">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19868">
+            <name>KKBR 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19844">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19869">
+            <name>KMHK 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19845">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19870">
+            <name>KRKX 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19846">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19871">
+            <name>KYYA 910 AM</name>
+            <description>radio</description>
+            <Point id="geom_19847">
+                <coordinates>-108.48754,45.737525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19872">
+            <name>KMCJ 99.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19848">
+                <coordinates>-106.65505,45.915952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19873">
+            <name>KGFC 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19849">
+                <coordinates>-111.27408,47.509157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19874">
+            <name>KXEI 95.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19850">
+                <coordinates>-109.68953,48.555536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19875">
+            <name>KVCM 103.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19851">
+                <coordinates>-112.04193,46.588803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19876">
+            <name>KALS 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19852">
+                <coordinates>-114.32202,48.201414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19877">
+            <name>KDBR 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19853">
+                <coordinates>-114.32202,48.201414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19878">
+            <name>KOFI 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19854">
+                <coordinates>-114.32202,48.201414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19879">
+            <name>KSPL 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19855">
+                <coordinates>-114.32202,48.201414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19880">
+            <name>KUKL 97.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19856">
+                <coordinates>-114.32202,48.201414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19881">
+            <name>KLEU 91.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19857">
+                <coordinates>-109.48065,47.054233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19882">
+            <name>KBGA 89.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19858">
+                <coordinates>-114.01229,46.855423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19883">
+            <name>KMSO 89.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19859">
+                <coordinates>-114.01229,46.855423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19884">
+            <name>KUFM 89.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19860">
+                <coordinates>-114.01229,46.855423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19885">
+            <name>KPLG 91.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19861">
+                <coordinates>-114.8171,47.452071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19886">
+            <name>WKNN 99.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19862">
+                <coordinates>-88.88917,30.399148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19887">
+            <name>WMJY 99.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19863">
+                <coordinates>-88.88917,30.399148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19888">
+            <name>WROX 1450 AM</name>
+            <description>radio</description>
+            <Point id="geom_19864">
+                <coordinates>-90.572408,34.196894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19889">
+            <name>WYDL 100.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19865">
+                <coordinates>-88.52856,34.928325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19890">
+            <name>WFCA 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19866">
+                <coordinates>-89.41628,33.312695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19891">
+            <name>WZKX 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19867">
+                <coordinates>-89.09626,30.380597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19892">
+            <name>WZNF 107.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19868">
+                <coordinates>-89.09626,30.380597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19893">
+            <name>WUSM 88.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19869">
+                <coordinates>-89.2799,31.285508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19894">
+            <name>WHLH 95.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19870">
+                <coordinates>-90.18328,32.292396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19895">
+            <name>WJDX 95.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19871">
+                <coordinates>-90.18328,32.292396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19896">
+            <name>WJMI 95.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19872">
+                <coordinates>-90.18328,32.292396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19897">
+            <name>WMPN 95.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19873">
+                <coordinates>-90.18328,32.292396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19898">
+            <name>WMSI 95.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19874">
+                <coordinates>-90.18328,32.292396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19899">
+            <name>WSTZ 95.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19875">
+                <coordinates>-90.18328,32.292396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19900">
+            <name>WMOX 1010 AM</name>
+            <description>radio</description>
+            <Point id="geom_19876">
+                <coordinates>-88.6596,32.339004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19901">
+            <name>WQNZ 95.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19877">
+                <coordinates>-91.35434,31.535545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19902">
+            <name>WOXD 95.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19878">
+                <coordinates>-89.50735,34.345016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19903">
+            <name>AFR 88.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19879">
+                <coordinates>-88.75665,34.23615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19904">
+            <name>WSYE 88.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19880">
+                <coordinates>-88.75665,34.23615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19905">
+            <name>WKSP 96.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19881">
+                <coordinates>-81.71368,33.569885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19906">
+            <name>WAGP 88.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19882">
+                <coordinates>-80.6698,32.4316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19907">
+            <name>WCKN 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19883">
+                <coordinates>-79.9355,32.779126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19908">
+            <name>WMGL 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19884">
+                <coordinates>-79.9355,32.779126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19909">
+            <name>WSSX 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19885">
+                <coordinates>-79.9355,32.779126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19910">
+            <name>WTMA 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19886">
+                <coordinates>-79.9355,32.779126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19911">
+            <name>WWWZ 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19887">
+                <coordinates>-79.9355,32.779126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19912">
+            <name>WXST 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19888">
+                <coordinates>-79.9355,32.779126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19913">
+            <name>WCCP 105.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19889">
+                <coordinates>-82.82176,34.681255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19914">
+            <name>WSBF 105.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19890">
+                <coordinates>-82.82176,34.681255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19915">
+            <name>WCOS AM 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19891">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19916">
+            <name>WCOS FM 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19892">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19917">
+            <name>WISW 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19893">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19918">
+            <name>WLTY 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19894">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19919">
+            <name>WLXC 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19895">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19920">
+            <name>WMHK 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19896">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19921">
+            <name>WNOK 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19897">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19922">
+            <name>WOMG 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19898">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19923">
+            <name>WVOC 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19899">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19924">
+            <name>WWNU 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19900">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19925">
+            <name>WXBT 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19901">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19926">
+            <name>WXRY 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19902">
+                <coordinates>-81.03519,33.998454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19927">
+            <name>WYFG 91.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19903">
+                <coordinates>-81.62497,35.03653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19928">
+            <name>WGTN 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19904">
+                <coordinates>-79.32638,33.38934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19929">
+            <name>WESC 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19905">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19930">
+            <name>WFBC 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19906">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19931">
+            <name>WGTK 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19907">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19932">
+            <name>WHZT 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19908">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19933">
+            <name>WJMZ 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19909">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19934">
+            <name>WORD 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19910">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19935">
+            <name>WROQ 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19911">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19936">
+            <name>WSPA 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19912">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19937">
+            <name>WSSL 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19913">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19938">
+            <name>WTBI 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19914">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19939">
+            <name>WTPT 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19915">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19940">
+            <name>WYRD 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19916">
+                <coordinates>-82.40578,34.848301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19941">
+            <name>WCRS 1450 AM</name>
+            <description>radio</description>
+            <Point id="geom_19917">
+                <coordinates>-82.15474,34.169781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19942">
+            <name>WLBG 860 AM</name>
+            <description>radio</description>
+            <Point id="geom_19918">
+                <coordinates>-82.02271,34.503167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19943">
+            <name>WEZV 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19919">
+                <coordinates>-78.739531,33.798844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19944">
+            <name>WKZQ 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19920">
+                <coordinates>-78.739531,33.798844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19945">
+            <name>WMYB 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19921">
+                <coordinates>-78.739531,33.798844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19946">
+            <name>WRNN 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19922">
+                <coordinates>-78.739531,33.798844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19947">
+            <name>WWXM 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19923">
+                <coordinates>-78.739531,33.798844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19948">
+            <name>WYAV 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19924">
+                <coordinates>-78.739531,33.798844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19949">
+            <name>WYNA 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19925">
+                <coordinates>-78.739531,33.798844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19950">
+            <name>WNMB 900 AM</name>
+            <description>radio</description>
+            <Point id="geom_19926">
+                <coordinates>-78.67824,33.823495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19951">
+            <name>WSPG 1400 AM</name>
+            <description>radio</description>
+            <Point id="geom_19927">
+                <coordinates>-81.98682,34.940921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19952">
+            <name>WCLU 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19928">
+                <coordinates>-86.46145,37.010643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19953">
+            <name>WGGC 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19929">
+                <coordinates>-86.46145,37.010643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19954">
+            <name>WKYU 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19930">
+                <coordinates>-86.46145,37.010643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19955">
+            <name>WMMG 93.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19931">
+                <coordinates>-86.11831,37.973094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19956">
+            <name>WKDZ 106.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19932">
+                <coordinates>-87.86409,36.846471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19957">
+            <name>WDFB 1170 AM</name>
+            <description>radio</description>
+            <Point id="geom_19933">
+                <coordinates>-84.78862,37.644426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19958">
+            <name>WNKU 89.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19934">
+                <coordinates>-84.4519,39.0331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19959">
+            <name>WHVO 1480 AM</name>
+            <description>radio</description>
+            <Point id="geom_19935">
+                <coordinates>-87.47617,36.866845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19960">
+            <name>CKRE</name>
+            <description>radio</description>
+            <Point id="geom_19936">
+                <coordinates>-84.61645,38.037847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19961">
+            <name>WBUL</name>
+            <description>radio</description>
+            <Point id="geom_19937">
+                <coordinates>-84.61645,38.037847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19962">
+            <name>WLAP</name>
+            <description>radio</description>
+            <Point id="geom_19938">
+                <coordinates>-84.61645,38.037847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19963">
+            <name>WUKY</name>
+            <description>radio</description>
+            <Point id="geom_19939">
+                <coordinates>-84.61645,38.037847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19964">
+            <name>WVLK</name>
+            <description>radio</description>
+            <Point id="geom_19940">
+                <coordinates>-84.61645,38.037847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19965">
+            <name>WFPK 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19941">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19966">
+            <name>WFPL 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19942">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19967">
+            <name>WHAS 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19943">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19968">
+            <name>WQNU 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19944">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19969">
+            <name>WRKA 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19945">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19970">
+            <name>WSFR 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19946">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19971">
+            <name>WTFX 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19947">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19972">
+            <name>WUOL 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19948">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19973">
+            <name>WVEZ 91.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19949">
+                <coordinates>-85.676819,38.188962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19974">
+            <name>WFMW 730 AM</name>
+            <description>radio</description>
+            <Point id="geom_19950">
+                <coordinates>-87.50378,37.330791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19975">
+            <name>WSOF 730 AM</name>
+            <description>radio</description>
+            <Point id="geom_19951">
+                <coordinates>-87.50378,37.330791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19976">
+            <name>WKMS 91.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19952">
+                <coordinates>-88.28746,36.617443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19977">
+            <name>WBKR 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19953">
+                <coordinates>-87.17419,37.753347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19978">
+            <name>WKTG 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19954">
+                <coordinates>-87.17419,37.753347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19979">
+            <name>WSTO 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19955">
+                <coordinates>-87.17419,37.753347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19980">
+            <name>WGKY 95.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19956">
+                <coordinates>-88.65687,37.066543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19981">
+            <name>WDHR 93.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19957">
+                <coordinates>-82.5189,37.478169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19982">
+            <name>WPKE 93.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19958">
+                <coordinates>-82.5189,37.478169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19983">
+            <name>WEKU 88.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19959">
+                <coordinates>-84.28433,37.745999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19984">
+            <name>KLCC 89.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19960">
+                <coordinates>-123.08275,44.06092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19985">
+            <name>KRVM 89.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19961">
+                <coordinates>-123.08275,44.06092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19986">
+            <name>KWAX 89.7 FM</name>
+            <description>radio</description>
+            <Point id="geom_19962">
+                <coordinates>-123.08275,44.06092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19987">
+            <name>KLAD 92.5 FM</name>
+            <description>radio</description>
+            <Point id="geom_19963">
+                <coordinates>-121.88447,42.282428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19988">
+            <name>KAPL 1300 AM</name>
+            <description>radio</description>
+            <Point id="geom_19964">
+                <coordinates>-122.87944,42.313498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19989">
+            <name>KBNP 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19965">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19990">
+            <name>KBOO 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19966">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19991">
+            <name>KEX 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19967">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19992">
+            <name>KFIS 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19968">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19993">
+            <name>KGON 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19969">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19994">
+            <name>KINK 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19970">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19995">
+            <name>KKCW 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19971">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19996">
+            <name>KKOV 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19972">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19997">
+            <name>KKRZ 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19973">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19998">
+            <name>KLTH 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19974">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19999">
+            <name>KMHD 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19975">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20000">
+            <name>KMTT 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19976">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20001">
+            <name>KNRK 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19977">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20002">
+            <name>KOPB 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19978">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20003">
+            <name>KPAM 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19979">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20004">
+            <name>KPOJ 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19980">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20005">
+            <name>KQAC 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19981">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20006">
+            <name>KRSK 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19982">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20007">
+            <name>KUPL 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19983">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20008">
+            <name>KWJJ 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19984">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20009">
+            <name>KXTG 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19985">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20010">
+            <name>KYCH 1410 AM</name>
+            <description>radio</description>
+            <Point id="geom_19986">
+                <coordinates>-122.68781,45.49894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20011">
+            <name>KQEN 1240 AM</name>
+            <description>radio</description>
+            <Point id="geom_19987">
+                <coordinates>-123.35138,43.227287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20012">
+            <name>KBZY 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19988">
+                <coordinates>-122.98694,44.926644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20013">
+            <name>KYKN 1490 AM</name>
+            <description>radio</description>
+            <Point id="geom_19989">
+                <coordinates>-122.98694,44.926644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20014">
+            <name>KKQQ 102.3 FM</name>
+            <description>radio</description>
+            <Point id="geom_19990">
+                <coordinates>-96.7906,44.305418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20015">
+            <name>KMIT 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19991">
+                <coordinates>-98.03185,43.711862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20016">
+            <name>KQRN 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19992">
+                <coordinates>-98.03185,43.711862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20017">
+            <name>KUQL 105.9 FM</name>
+            <description>radio</description>
+            <Point id="geom_19993">
+                <coordinates>-98.03185,43.711862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20018">
+            <name>KBHB 810 AM</name>
+            <description>radio</description>
+            <Point id="geom_19994">
+                <coordinates>-103.284511,44.090788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20019">
+            <name>KDEZ 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19995">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20020">
+            <name>KELO 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19996">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20021">
+            <name>KIKN 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19997">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20022">
+            <name>KKLS 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19998">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20023">
+            <name>KRRO 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_19999">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20024">
+            <name>KTWB 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_20000">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20025">
+            <name>KWSN 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_20001">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20026">
+            <name>WNAX 100.1 FM</name>
+            <description>radio</description>
+            <Point id="geom_20002">
+                <coordinates>-96.69063,43.546358,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

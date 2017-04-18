@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_20027">
+        <Placemark id="feat_20028">
+            <name>Daily World</name>
+            <description>newspaper</description>
+            <Point id="geom_20003">
+                <coordinates>-123.81923,46.972965,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
